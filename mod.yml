@@ -1,0 +1,35 @@
+
+title: Consistent Localization Dream Drop Distance HD
+originalAuthor: Superfield
+description: Part of a mod series intended to reduce inconsistencies between the English localizations.
+assets:
+
+- name: message/en/item/bin/ctit200.ctd
+  method: copy
+  source:
+  - name: message/CL_ctit200.ctd
+
+- name: message/en/item/bin/ctit300.ctd
+  method: copy
+  source:
+  - name: message/CL_ctit300.ctd
+
+- name: message/en/menu/bin/ctdb000.ctd
+  method: copy
+  source:
+  - name: message/CL_ctdb000.ctd
+
+- name: message/en/menu/bin/ctmn600.ctd
+  method: copy
+  source:
+  - name: message/CL_ctmn600.ctd
+
+- name: remastered/menu/en/ckpt/help_img/bin/hp15201.ctt/US_hp15201.png
+  method: copy
+  source:
+  - name: menu/CL_hp15201.png
+
+- name: remastered/menu/en/title/title/bin/title_n.l2d/US_title.png
+  method: copy
+  source:
+  - name: menu/CL_title.png
