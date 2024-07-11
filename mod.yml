@@ -33,3 +33,18 @@ assets:
   method: copy
   source:
   - name: menu/CL_title.png
+
+- name: remastered/menu/en/title/title/bin/title_n.l2d/US_title_other.png
+  method: copy
+  source:
+  - name: menu/CL_title.png
+
+- name: remastered/menu/en/title/title/bin/title_n.l2d/US_title_ps.png
+  method: copy
+  source:
+  - name: menu/CL_title.png
+
+- name: remastered/menu/en/title/title/bin/title_n.l2d/US_title_xbox.png
+  method: copy
+  source:
+  - name: menu/CL_title.png
