@@ -33,15 +33,19 @@ The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and D
 The following is a brief overview of text changes made. This is as exhaustive as I could make it without being overly specific or repetitive:
 
 ### System
-* Continue -> Load
-  * This is the option on the title screen to open the list of save files
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Continue | Load | This is the option on the title screen to open the list of save files |
 
 ### Commands
-* Confusing Strike -> Confuse Strike
-* Shadow Slide -> Shadow Reversal
-  * Tutorial text, images and ability descriptions were adjusted to account for this change
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Confusing Strike | Confuse Strike | |
+| Shadow Slide | Shadow Reversal | Tutorial text, images and ability descriptions were adjusted to account for this change |
 
 ### Abilities
-* Confusion Block -> Confuse Block
-* EXP Boost -> EXP Chance
-* Damage Syphon -> Link Syphon
+| Stock | Modded | Notes |
+| --- | --- | --- |
+| Confusion Block | Confuse Block | |
+| EXP Boost | EXP Chance | |
+| Damage Syphon | Link Syphon | |
