@@ -46,6 +46,13 @@ The following is a brief overview of text changes made. This is as exhaustive as
 ### Abilities
 | Stock | Modded | Notes |
 | --- | --- | --- |
-| Confusion Block | Confuse Block | |
+| Mini Block | Mini Protection | |
+| Blindness Block | Blindness Protection | |
+| Confusion Block | Confuse Protection | |
+| Bind Block | Bind Protection | |
+| Poison Block | Poison Protection | |
+| Slow Block | Slow Protection | |
+| Sleep Block | Sleep Protection | |
+| Stop Block | Stop Protection | |
 | EXP Boost | EXP Chance | |
 | Damage Syphon | Link Syphon | |
