@@ -24,7 +24,9 @@ The four playable games in the Kingdom Hearts HD I.5+II.5 ReMIX collection and D
 | Consistent Localization Final Mix | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationKH1) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsfinalmix/mods/112) |
 | Consistent Localization Re:Chain of Memories | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationRecom) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsrechainofmemories/mods/20/) |
 | Consistent Localization II Final Mix | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationKH2) | [Nexus Mods](https://www.nexusmods.com/kingdomhearts2finalmix/mods/180/) (NOT RECOMMENDED) |
+| Consistent Localization 358/2 Days | | [Nexus Mods](https://www.nexusmods.com/kingdomhearts3582days/mods/10/) |
 | Consistent Localization Birth by Sleep Final Mix | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationBBS) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsbirthbysleepfinalmix/mods/35/) |
+| Consistent Localization Re:coded | | [Nexus Mods](https://www.nexusmods.com/kingdomheartsrecoded/mods/2/) |
 | Consistent Localization Dream Drop Distance HD | [GitHub](https://github.com/SuperfieldCU/ConsistentLocalizationDDD) | [Nexus Mods](https://www.nexusmods.com/kingdomheartsdreamdropdistancehd/mods/30/) |
 | Consistent Localization 0.2 Birth by Sleep -A fragmentary passage- | | [Nexus Mods](https://www.nexusmods.com/kingdomhearts02birthbysleepafragmentarypassage/mods/20/) |
 | Consistent Localization III Re𝄌Mind | | [Nexus Mods](https://www.nexusmods.com/kingdomhearts3/mods/2029/) |
@@ -46,13 +48,13 @@ The following is a brief overview of text changes made. This is as exhaustive as
 ### Abilities
 | Stock | Modded | Notes |
 | --- | --- | --- |
-| Mini Block | Mini Protection | |
-| Blindness Block | Blindness Protection | |
-| Confusion Block | Confuse Protection | |
-| Bind Block | Bind Protection | |
-| Poison Block | Poison Protection | |
-| Slow Block | Slow Protection | |
-| Sleep Block | Sleep Protection | |
-| Stop Block | Stop Protection | |
+| Mini Block | Mini Immunity | |
+| Blindness Block | Blindness Immunity | |
+| Confusion Block | Confuse Immunity | |
+| Bind Block | Bind Immunity | |
+| Poison Block | Poison Immunity | |
+| Slow Block | Slow Immunity | |
+| Sleep Block | Sleep Immunity | |
+| Stop Block | Stop Immunity | |
 | EXP Boost | EXP Chance | |
 | Damage Syphon | Link Syphon | |
